@@ -18,3 +18,5 @@ https://urlscrap.com/content.php?id=4bta0HvDdTSvOQZ6LusgFg%3D%3D
 애니메이션 적용하기
 https://lcw126.tistory.com/152
 
+js undefined
+
