@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+    <meta name="study" content="study">
+    <title>문자 입력 양식</title>
+    <style>
+        *{
+            font-size:22px;
+        }
+    </style>
+</head>
+    
+<body>
+    <script>//앞에 청주, 세종 넣고 나중에 청주제거
+        var kdata =['서울', '부산'];
+        var p1 =kdata.unshift('청주', '세종');
+        document.write("데이터 : " + p1 + "<br>");
+        document.write("데이터 변수 : " + kdata + "<p/>");
+        var p2 = kdata.shift();
+        document.write("데이터 : " + p2 + "<br>");
+        document.write("데이터 변수 : " + kdata + "<p/>");
+    </script>
+</body>
+
+</html>
