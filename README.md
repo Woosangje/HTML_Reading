@@ -20,3 +20,5 @@ https://lcw126.tistory.com/152
 
 js undefined
 
+깃 메소드들 다시 공부
+
