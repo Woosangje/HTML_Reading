@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+    <head>
+        <meta name ="study" content ="study">
+        <title>메소드를 호출하여 연산 결과 출력하기</title>
+        <style>
+            *{
+                font-size:22px;
+            }
+        </style>
+
+        <body>
+            <p id="carname"></p>
+            <p id="carcolor"></p>
+            <p id="carspeed"></p>
+           <script>
+               var car = {
+                   name: 'Sonata',
+                   speed: 50,
+                   color: 'white',
+                   start: function(){
+                       return this.speed+10;
+                   }
+               };
+               var cname=document.getElementById("carname");
+               cname.textContent=car.name;
+               var colname=document.getElementById("carcolor");
+               colname.textContent =car.color;
+               var cspeed=document.getElementById("carspeed");
+               cspeed.textContent=car.start();
+           </script>
+        </body>
+    </head>
+
+</html>

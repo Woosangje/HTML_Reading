@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+    <head>
+        <meta name ="study" content ="study">
+        <title>속성만 가진 객체 만들기</title>
+        <style>
+            *{
+                font-size:22px;
+            }
+        </style>
+
+        <body>
+            <p id="var1">sss</p>
+            <p id="var2">sss</p>
+            <p id="var3">sss</p>
+            
+            <script>
+                var car ={name : 'Sonata', speed: 100, color: 'white'};
+                document.getElementById("var1").innerHTML ="자동차 이름 : " + car['name'];
+                document.getElementById("var2").innerHTML ="자동차 속도 : " + car.speed;
+                document.getElementById("var3").innerHTML ="자동차 색상 : "+ car.color;
+            </script>
+        </body>
+    </head>
+
+</html>
