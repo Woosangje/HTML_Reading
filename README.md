@@ -1,5 +1,5 @@
 # HTML_Reading
-HTML관려 자료와 파일들
+HTML관련 자료와 파일들
 
 작업 시작전 필히 읽을 것
 
