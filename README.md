@@ -73,4 +73,14 @@ HTTP/1.1 이 8000인지 확인<br/>
 103P까지
 1em은 12pt=16px=100%
 
+0125
+bootrap: css 프레임워크
+https://startbootstrap.com/
 
+부트스트랩으로 페이지 만들기
+부트스트랩kr들어가서 공부 
+v4버전이 제일 안정적임
+
+Request Response
+itemboard sql 마저 작성하기
+187p까지
