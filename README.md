@@ -84,3 +84,7 @@ v4버전이 제일 안정적임
 Request Response
 itemboard sql 마저 작성하기
 187p까지
+
+0126
+jquery cdn
+https://via.placeholder.com/100x100 	기억하기
