@@ -23,14 +23,15 @@ js undefined<br>
 
 깃 메소드들 다시 공부.<br>
 
+
+
 2024/01/22<br/>
 조별과제 중고 게시판 dto dao 만들어보기<br/>
-
 이클립스에서 java ee사용 이제 java는 오른쪽 클릭 close 하면된다.<br/>
 
 :443
 :80
-서버사용할려면 comcat사용해야 한다. 아파치 톰켓<br/>
+★ 서버사용할려면 comcat사용해야 한다. 아파치 톰켓<br/>
 
 server Shutdown port 8001로 변경<br/>
 > 설치경로 D:\Tomcat 로 변경<br/>
@@ -73,6 +74,8 @@ HTTP/1.1 이 8000인지 확인<br/>
 103P까지
 1em은 12pt=16px=100%
 
+★ F12
+로렘임숨 검색해서 텍스트 붙이기
 0125
 bootrap: css 프레임워크
 https://startbootstrap.com/
